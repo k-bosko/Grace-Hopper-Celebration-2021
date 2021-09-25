@@ -1,6 +1,163 @@
 # Grace-Hopper-Celebration-2021
 list of sponsors with links to internships
 
+Note: list is not complete.
+
+## Emerald Sponsors
+| Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
+|---|---|---|---|-------------|-------------|
+|[Bank of America]()| | | Banking | |
+|[Disney]()| | | | | |
+|[Google]()| | | | | |
+|[Northrop Grumman]()| | | | | |
+|[Wells Fargo]()| | | Banking | | |
+
+## Diamond Sponsors
+| Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
+|---|---|---|---|-------------|-------------|
+|[American Express]()| | | Banking | | |
+|[Apple]()| | | | | |
+|[Capital One]()| | | Banking| | |
+|[Electronic Arts]()| | | Gaming | | |
+|[Intuit]()| | | | | |
+|[Microsoft]()| | | | | |
+|[NetApp](http://netapp.com/)| [Yes](https://netapp.eightfold.ai/careers?pid=8617935&query=Intern&domain=netapp.com) | [Yes](https://www.netapp.com/company/careers/early-in-career-program/)| Cloud Computing | | |
+|[Nordstrom](http://www.nordstrom.com/)| | | Retail | | |
+|[PayPal](https://www.paypal.com/home)| [Yes](https://jobsearch.paypal-corp.com/en-US/search?keywords=&facetcountry=us&location=&facetcategory=Internship) | | FinTech, Mobile Payments| | |
+|[Qualcomm](http://www.qualcomm.com/)| | | Telecommunications | | |
+|[Salesforce](https://www.salesforce.com/)| | | SaaS, Analytics| | |
+
+## Platinum Sponsors
+| Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
+|---|---|---|---|-------------|-------------|
+|[Amazon]()| | | | | |
+|[Bloomberg]()| | | | | |
+|[Boeign]()| | | Aerospace | | |
+|[Booz Allen Hamilton]()| | | | | |
+|[Cisco]()| | | | | |
+|[Citi]()| | | Banking | | |
+|[DeepMind]()| | | | | |
+|[Discover]()| | | | | |
+|[?]()| | | | | |
+|[Genentech]()| | | | | |
+|[Goldman Sachs]()| | | Banking | | |
+|[Hewlett Packard Enterprise]()| | | | | |
+|[IBM]()| | | | | |
+|[Morgan Stanley]()| | | | | |
+|[Rivian]()| | | | | |
+|[Sony Interactive Entertainment]()| | | | | |
+|[Two Sigma]()| | | | | |
+|[USAA]()| | | | | |
+|[Walmart]()| | | | | |
+|[Wayfair]()| | | | | |
+|[Workiva]()| | | | | |
+|[Zoom]()| | | | | |
+
+
+## Gold Sponsors
+| Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
+|---|---|---|---|-------------|-------------|
+|[3M]()| | | | | |
+|[ADP]()| | | | | |
+|[AlixPartners]()| | | | | |
+|[Allstate]()| | | | | |
+|[Ally]()| | | | | |
+|[American Family Insurance]()| | | | | |
+|[Amgen]()| | | | | |
+|[Audible/Amazon]()| | | | | |
+|[Aurora]()| | | | | |
+|[Avalara]()| | | | | |
+|[?]()| | | | | |
+|[BlackRock]()| | | | | |
+|[BNY Mellon]()| | | | | |
+|[Cardinal Health]()| | | | | |
+|[Carta]()| | | | | |
+|[the human energy company/Chevron]()| | | | | |
+|[CTC/Chicago Trading Company]()| | | | | |
+|[Citrix]()| | | | | |
+|[Coursera]()| | | | | |
+|[Deutsche Bank]()| | | | | |
+|[Doordash](https://www.doordash.com/)| Yes | No | Food Delivery, Logistics| | [Software Engineer, Intern](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) |
+|[Dropbox]()| | | | | |
+|[Ebay]()| | | | | |
+|[Elsevier]()| | | | | |
+|[Epic Games]()| | | Gaming | | |
+|[Evernote]()| | | | | |
+|[Experian]()| | | | | |
+|[EY]()| | | | | |
+|[Ford]()| | | | | |
+|[GoDaddy]()| | | | | |
+|[Hudson River Trading]()| | | | | |
+|[Hu.ma.ne]()| | | | | |
+|[Idexx]()| | | | | |
+|[IMC]()| | | | | |
+|[Intel]()| | | | | |
+|[Invitae]()| | | | | |
+|[?]()| | | | | |
+|[Jane Street]()| | | | | |
+|[Juniper Networks]()| | | | | |
+|[KMPG]()| | | | | |
+|[L3harris]()| | | | | |
+|[LexisNexis]()| | | | | |
+|[Liberty Mutual]()| | |Insurance | | |
+|[Lilly]()| | | | | |
+|[LinkedIN]()| | | | | |
+|[Lowe's]()| | | | | |
+|[Mastercard]()| | | | | |
+|[MathWorks]()| | | | | |
+|[McDonalds]()| | | | | |
+|[Medidata]()| | | | | |
+|[Merck]()| | | | | |
+|[?]()| | | | | |
+|[MiTek]()| | | | | |
+|[Moody's]()| | | | | |
+|[Motional]()| | | | | |
+|[Nasdaq]()| | | | | |
+|[Navy Federal Credit Union]()| | | | | |
+|[New York Life]()| | | | | |
+|[Niantic]()| | | | | |
+|[Nike]()| | | | | |
+|[Nintendo]()| | | | | |
+|[Nuance]()| | | | | |
+|[Opendoor]()| | | | | |
+|[Oracle]()| | | | | |
+|[Pega]()| | | | | |
+|[PNC Fin.Services Group]()| | | Financial Services | | |
+|[RedHat]()| | | | | |
+|[Ripple]()| | | | | |
+|[Roblox]()| | | | | |
+|[Rockwell Automation]()| | | | | |
+|[Schrodinger]()| | | | | |
+|[ServiceNow]()| | | | | |
+|[Shopify]()| | | | | |
+|[Siemens]()| | | | | |
+|[Slalom]()| | | | | |
+|[Spacex]()| | | | | |
+|[StateFarm]()| | | | | |
+|[Stripe]()| | | | | |
+|[Target Tech]()| | | | | |
+|[Tesla]()| | | | | |
+|[DE Shaw & Co]()| | | | | |
+|[Home Depot]()| | | | | |
+|[Pokemon Company Int.]()| | | | | |
+|[Q/HSN]()| | | | | |
+|[theTradeDesk]()| | | | | |
+|[?]()| | | | | |
+|[Thomson Reuters]()| | | | | |
+|[Thoughtworks]()| | | | | |
+|[TIBCO]()| | | | | |
+|[Travelers]()| | | | | |
+|[T.RowePrice]()| | | | | |
+|[Unity]()| | | | | |
+|[Verizon]()| | | | | |
+|[Viasat]()| | | | | |
+|[WMWare]()| | | | | |
+|[Xperi]()| | | | | |
+|[Yahoo!]()| | | | | |
+|[Yext]()| | | | | |
+|[Zendesk]()| | | | | |
+|[Zillow]()| | | | | |
+|[Zulily]()| | | | | |
 
 ## Bronze Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
@@ -33,7 +190,7 @@ list of sponsors with links to internships
 |[Consilio](https://www.consilio.com/about-consilio/careers/)| No | No | Enterprise Software, Legal | | private, 2002, 500-1000|
 |[CSL Behring](https://www.cslbehring.com/)| | | Biotech | | |
 |[DataStax](https://www.datastax.com/company/careers#roles)|  No| No | Cloud Data Services, Software Enterprise | Global/Remote | private, 2010, 500-1000 size|
-|[Doordash](https://www.doordash.com/)| Yes | No | Food Delivery, Logistics| | [Software Engineer, Intern](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) |
+|[Deliverr]()| | | | | |
 |[D E Shaw Research](https://www.deshawresearch.com/)| | | Biochemistry Research | | |
 |[Dev Technology Group]()| Yes | No | IT Consulting | Reston, VA | [Summer Technical Intern](https://devtechnology.com/careers/careers-apply/?jobid=5538810002) in Reston, VA and Washington, D.C; also DevOps internship|
 |[Digital BCG](https://www.bcg.com/)| | [Yes](https://careers.bcg.com/students) | Consulting | | |
@@ -56,10 +213,10 @@ list of sponsors with links to internships
 |[Foothold Technology](https://footholdtechnology.com/)| No | No |Consumer Electronics, Healthcare | | |
 |[Freenome]()| | | BioTech | | |
 |[Gap Inc](https://www.gapinc.com/en-us)| Yes | |E-Commerce | | |
-|[Gartner](https://www.gartner.com/en)| | | | | |
+|[Gartner](https://jobs.gartner.com/search-jobs)| Yes | Yes | Consulting | | |
 |[Gemini](https://www.gemini.com/)| No | No | FinTech, Crypto | | |
 |[GoGuardian](https://www.goguardian.com/)| No | No | EdTech | | |
-|[Grubhub]()| | | | | |
+|[Grubhub](http://www.grubhub.com/)| No | | Food Delivery | | |
 |[H-E-B](https://www.heb.com/)| [Yes](https://heb.taleo.net/careersection/extdigitalinterns/jobsearch.ftl?lang=en&radiusType=K&searchExpanded=true&keyword=DIGINT3232&radius=1&portal=100200028688) | [Yes](https://careers.heb.com/university-grads-interns/graduates/) | Supermarket | San Antonio, TX | |
 |[Haven Life](https://havenlife.com/)| No | No | Insurance | NY | |
 |[Honeywell](http://www.honeywell.com/)| Yes | Yes | Aerospace, Safety| | US citizen/perm|
@@ -71,14 +228,14 @@ list of sponsors with links to internships
 |[John Deere]()| | | | | |
 |[?]()| | | | | |
 |[KLA+](http://www.kla-tencor.com/)| | |Semiconductor | | |
-|[Lam Research]()| | | | | |
-|[M&T Tech]()| | | | | |
-|[Magic Leap]()| | | Augmented Reality, MedTech | | |
-|[MassMutual]()| | [Yes](https://www.massmutual.com/about-us/careers/early-careers) | FinTech, Insurance | | |
-|[McKinsey & Company]()| | | | | |
+|[Lam Research](http://www.lamresearch.com/)| | | Semiconductor | | |
+|[M&T Tech](https://www3.mtb.com/careers/technology-careers)| [Yes](https://www3.mtb.com/homepage/careers/campus-development-programs/technology-internship-program) | |Banking | | |
+|[Magic Leap](http://magicleap.com/)| | | Augmented Reality, MedTech | | |
+|[MassMutual](https://www.massmutual.com)| | [Yes](https://www.massmutual.com/about-us/careers/early-careers) | FinTech, Insurance | | |
+|[McKinsey & Company](http://www.mckinsey.com/)| Yes | Yes | Consulting | | mostly outside U.S. |
 |[Medtronic](http://www.medtronic.com/)| | | BioTech | | |
 |[Micron]()| | | | | |
-|[Mitsubishi Electric]()| | | | | |
+|[Mitsubishi Electric](https://www.mitsubishielectric.co.jp/)| | | Manufacturing | | |
 |[Morningstar](https://www.morningstar.com/)| | |Financial Services | Chicago | |
 |[National Instruments](https://www.ni.com/en-us.html)| | | Aerospace, Electronics| | |
 |[Neeva](https://neeva.com/)| Yes | Yes |Search Engine | Mountain View, CA / Austin, TX | small startup; [Software Engineer, Intern, Summer 2022](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | [Software Engineer, New Grad 2022](https://jobs.lever.co/neeva/f6e3ba86-f5a1-478d-9666-e8e7310564b8)|
@@ -126,4 +283,4 @@ list of sponsors with links to internships
 |[Western Digital](https://www.westerndigital.com/)| Yes | [Yes](https://careers.smartrecruiters.com/WesternDigital/university)| Computer Hardware | Global | Lots of internships/new college grad programs in San Jose |
 |[?]()| | | | | |
 
-Note: list is not complete.
+
