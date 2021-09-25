@@ -6,36 +6,36 @@ Note: list is not complete.
 ## Emerald Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
 |---|---|---|---|-------------|-------------|
-|[Bank of America]()| | | Banking | |
+|[Bank of America](http://www.bankofamerica.com/)| | | Banking | couldn't find direct links to internships; support diversity|
 |[Disney]()| | | | | |
 |[Google]()| | | | | |
-|[Northrop Grumman]()| | | | | |
-|[Wells Fargo]()| | | Banking | | |
+|[Northrop Grumman](http://www.northropgrumman.com/)| | | Security | | |
+|[Wells Fargo](https://www.wellsfargo.com/)| No? | | Banking | | positions targeted specifically at GHC attendees |
 
 ## Diamond Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
 |---|---|---|---|-------------|-------------|
-|[American Express]()| | | Banking | | |
+|[American Express](http://www.americanexpress.com/)| [Yes](https://www.americanexpress.com/en-us/careers/student-programs/us/)| Yes | Banking | | [Operations Engineering Intern](https://aexp.eightfold.ai/careers/job?pid=9290649) in Phoenix, AZ|
 |[Apple]()| | | | | |
-|[Capital One]()| | | Banking| | |
-|[Electronic Arts]()| | | Gaming | | |
-|[Intuit]()| | | | | |
-|[Microsoft]()| | | | | |
+|[Capital One](https://www.capitalonecareers.com/)| Yes | | Banking| | [Technology Development Program Associate - 2022](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594)|
+|[Electronic Arts](http://www.ea.com/)| | | Gaming | | |
+|[Intuit](http://www.intuit.com/)| | | FinTech, Accounting | | |
+|[Microsoft](http://www.microsoft.com/)| | | | | |
 |[NetApp](http://netapp.com/)| [Yes](https://netapp.eightfold.ai/careers?pid=8617935&query=Intern&domain=netapp.com) | [Yes](https://www.netapp.com/company/careers/early-in-career-program/)| Cloud Computing | | |
-|[Nordstrom](http://www.nordstrom.com/)| | | Retail | | |
+|[Nordstrom](http://www.nordstrom.com/)| No | | Retail | | |
 |[PayPal](https://www.paypal.com/home)| [Yes](https://jobsearch.paypal-corp.com/en-US/search?keywords=&facetcountry=us&location=&facetcategory=Internship) | | FinTech, Mobile Payments| | |
 |[Qualcomm](http://www.qualcomm.com/)| | | Telecommunications | | |
-|[Salesforce](https://www.salesforce.com/)| | | SaaS, Analytics| | |
+|[Salesforce](https://www.salesforce.com/)| Yes | | SaaS, Analytics| many, also SF, CA | |
 
 ## Platinum Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
 |---|---|---|---|-------------|-------------|
 |[Amazon]()| | | | | |
-|[Bloomberg]()| | | | | |
-|[Boeign]()| | | Aerospace | | |
-|[Booz Allen Hamilton]()| | | | | |
-|[Cisco]()| | | | | |
-|[Citi]()| | | Banking | | |
+|[Bloomberg](http://www.bloomberg.com/)| [Yes](https://careers.bloomberg.com/job/search?el=Internships&lc=New+York) | Yes | BI, Analytics | NY | website not updated |
+|[Boeing](http://www.boeing.com/)| | | Defense, Space | | |
+|[Booz Allen Hamilton](http://www.boozallen.com/)| | | Cyber Security, Consulting | | |
+|[Cisco](http://www.cisco.com/)| | | Enterprise Software, Hardware | | |
+|[Citi](https://jobs.citi.com/)| Yes | | Banking | | internships outside the U.S. |
 |[DeepMind]()| | | | | |
 |[Discover]()| | | | | |
 |[?]()| | | | | |
