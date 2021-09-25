@@ -42,83 +42,83 @@ list of sponsors with links to internships
 |[DTCC]()| | | | | |
 |[Duck Creek Technologies](http://www.duckcreek.com/)| No | No | FinTech, Insurance| Global | few Associate roles; public; 2000; 5000-10000 size |
 |[Enphase](https://enphase.com/careers)| No | No | Energy | | |
-|[Everest]()| | | | | |
-|[Everlaw]()| | | | | |
-|[Evidation]()| | | | | |
+|[Everest](https://www.everestre.com/Careers)| [Yes](https://www.everestre.com/Careers/Programs-for-Students) | | Insurance | Warren, NJ |[2022 Data Analytics Internship](https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers/job/Warren-NJ/XMLNAME-2022-Business-Analytics-Internship_R1434), [2022 Software Development Internship](https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers/job/Warren-NJ/XMLNAME-2022-Software-Development-Internship_R1431) |
+|[Everlaw](https://www.everlaw.com/)| No | No |Legal Tech, Cloud | Oakland, CA | startup, 2010, 250-500 size |
+|[Evidation](https://evidation.com/)| No | No | Health Care | | |
 |[?]()| | | | | |
-|[Fanduel]()| | | | | |
-|[Fast Enterprises]()| | | | | |
-|[FIS]()| | | | | |
-|[Fiserv]()| | | | | |
-|[Fisher Investments]()| | | | | |
-|[Five Rings]()| | | | | |
-|[Flatiron]()| | | | | |
-|[Foothild Technology]()| | | | | |
-|[Freenome]()| | | | | |
-|[Gap Inc]()| | | | | |
+|[Fanduel](https://www.fanduel.com/open-positions)| No | No | Gaming | many (e.g. LA, CA) | |
+|[Fast Enterprises](https://www.fastenterprises.com/careers)| Yes | | GovTech | | |
+|[FIS]()| Yes | [Yes](https://careers.fisglobal.com/us/en/c/fis-university-programinterns-jobs)| FinTech, Banking| | |
+|[Fiserv](https://www.fiserv.com/en.html)| Yes | | FinTech | | [2022 Summer Intern – Technology Majors](https://www.careers.fiserv.com/job/omaha/2022-summer-intern-technology-majors-omaha-ne/1758/13743897664) in Omaha, NE|
+|[Fisher Investments]()| | [Yes](https://www.fisherinvestments.com/en-us/careers/internships)| Financial Services | | no SWE internships |
+|[Five Rings](https://fiverings.com/)| Yes | | FinTech | | |
+|[Flatiron](https://flatiron.com/)| | | Biotech| | |
+|[Foothold Technology](https://footholdtechnology.com/)| No | No |Consumer Electronics, Healthcare | | |
+|[Freenome]()| | | BioTech | | |
+|[Gap Inc](https://www.gapinc.com/en-us)| Yes | |E-Commerce | | |
 |[Gartner]()| | | | | |
-|[Gemini]()| | | | | |
-|[GoGuardian]()| | | | | |
+|[Gemini](https://www.gemini.com/)| No | No | FinTech, Crypto | | |
+|[GoGuardian](https://www.goguardian.com/)| No | No | EdTech | | |
 |[Grubhub]()| | | | | |
 |[H-E-B]()| | | | | |
-|[Haven Life]()| | | | | |
+|[Haven Life](https://havenlife.com/)| No | No | Insurance | NY | |
 |[Honeywell]()| | | | | |
-|[Infinera]()| | | | | |
-|[Insomniac Games]()| | | | | |
+|[Infinera](https://www.infinera.com/careers/)| No | | Telecom | | public |
+|[Insomniac Games](https://insomniac.games/)| Not now | | Gaming | | |
 |[ICE Nyse]()| | | | | |
-|[InterSystems]()| | | | | |
+|[InterSystems](http://www.intersystems.com/)| | | Health Care | | |
 |[?]()| | | | | |
 |[John Deere]()| | | | | |
 |[?]()| | | | | |
-|[KLA+]()| | | | | |
+|[KLA+](http://www.kla-tencor.com/)| | |Semiconductor | | |
 |[Lam Research]()| | | | | |
 |[M&T Tech]()| | | | | |
-|[Magic Leap]()| | | | | |
-|[MassMutual]()| | | | | |
+|[Magic Leap]()| | | Augmented Reality, MedTech | | |
+|[MassMutual]()| | [Yes](https://www.massmutual.com/about-us/careers/early-careers) | FinTech, Insurance | | |
 |[McKinsey & Company]()| | | | | |
-|[Medtronic]()| | | | | |
+|[Medtronic](http://www.medtronic.com/)| | | BioTech | | |
 |[Micron]()| | | | | |
 |[Mitsubishi Electric]()| | | | | |
-|[Morningstar]()| | | | | |
+|[Morningstar](https://www.morningstar.com/)| | |Financial Services | Chicago | |
 |[?]()| | | | | |
 |[?]()| | | | | |
 |[Northwestern Mutual]()| | | | | |
-|[Ocrolus]()| | | | | |
+|[Ocrolus](https://www.ocrolus.com/)| No | No |FinTech, ML | | |
 |[?]()| | | | | |
 |[?]()| | | | | |
-|[Outschool]()| | | | | |
-|[Paycom]()| | | | | |
-|[Paylocity]()| | | | | |
-|[PerkinElmer]()| | | | | |
-|[Prefect]()| | | | | |
-|[Qualified]()| | | | | |
-|[Quantcast]()| | | | | |
+|[Outschool](https://outschool.com/)| No | No | EdTech | | remote |
+|[Paycom](http://www.paycom.com/)| | | Human Resources | | |
+|[Paylocity](https://www.paylocity.com/)| | [Yes](https://www.paylocity.com/careers/career-opportunities/early-career/)| Human Resources, Enterprise Software| | |
+|[PerkinElmer](http://www.perkinelmer.com/)| | | Health Care | | |
+|[Prefect](https://www.prefect.io/)| No | | Cloud Data Services| | |
+|[Qualified](https://www.qualified.com/)| | | MarTeh| | |
+|[Quantcast](http://www.quantcast.com/)| | | Advertising | | |
 |[Quora]()| | | | | |
-|[Rally]()| | | | | |
+|[Rally](https://www.rallyhealth.com/)| | | Health Care| | |
 |[?]()| | | | | |
 |[Reddit]()| | | | | |
-|[Redfin]()| | | | | |
+|[Redfin](http://www.redfin.com/)| Yes | [Yes](https://www.redfin.com/careers/departments/emerging-talent)| Real Estate | Seattle, WA | |
 |[Reynolds]()| | | | | |
-|[Ro]()| | | | | |
+|[Ro](https://ro.co/)| | | Health Care| | |
 |[Robinhood]()| | | | | |
-|[Rocket Companies]()| | | | | |
+|[Rocket Companies](https://www.rocketcompanies.com/)| [Yes](https://www.myrocketcareer.com/teams/internships/)| | Real Estate| | |
 |[Rora]()| | | | | |
-|[Rubrik]()| | | | | |
+|[Rubrik](http://rubrik.com/)| Yes | | Cloud Data Services | | |
 |[SAP]()| | | | | |
-|[Schlumberger]()| | | | | |
-|[Snorkel]()| | | | | |
-|[Snowflake]()| | | | | |
-|[Sonatype]()| | | | | |
+|[Schlumberger](https://www.slb.com/)| | | Oil and Gas | | |
+|[Snorkel](https://snorkel.ai/)| Yes | | | | |
+|[Snowflake](https://www.snowflake.com/)| | [Yes](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | Cloud Data Services, Analytics | | |
+|[Sonatype](http://www.sonatype.com/)| No | No |Cybersecurity | | |
 |[Splunk]()| | | | | |
-|[Spreetail]()| | | | | |
-|[State Street]()| | | | | |
-|[Strava]()| | | | | |
+|[Spreetail](http://spreetail.com/)| Yes | |E-Commerce | Lincoln, NE | |
+|[State Street](http://www.statestreet.com/)| | [Yes](https://careers.statestreet.com/global/en/state-street-early-careers)| Financial Services, Banking | Burlington | |
+|[Strava](http://www.strava.com/)| [Yes](https://boards.greenhouse.io/strava)| |Fitness, Social Network | | |
 |[T-Mobile]()| | | | | |
 |[TikTok]()| | | | | |
 |[Toyota Research Institute]()| | | | | |
 |[Twitter]()| | | | | |
 |[TwoSix Technologies]()| | | | | |
-|[UBS]()| | | | | |
+|[UBS]()| [Yes](https://www.ubs.com/global/en/careers/university-students.html) | [Yes](https://www.ubs.com/global/en/careers/recent-graduates.html) | | | |
 |[UIPath](https://www.uipath.com/)| Yes | No | Automation | Global | [Software Engineer Intern](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern) in Bellevue, WA|
 |[Valve](https://www.valvesoftware.com/en/)| No | No | Gaming | Belleveu, WA | |
 |[Vidmob](https://www.vidmob.com/)| Yes | No |Digital Video Content| Global | [Engineering Intern](https://www.vidmob.com/careers/?gh_jid=4359868003) in Pittsfield, MA or Remote, [Product Marketing Intern](https://www.vidmob.com/careers/?gh_jid=4585192003) Remote| 
