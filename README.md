@@ -60,9 +60,9 @@ list of sponsors with links to internships
 |[Gemini](https://www.gemini.com/)| No | No | FinTech, Crypto | | |
 |[GoGuardian](https://www.goguardian.com/)| No | No | EdTech | | |
 |[Grubhub]()| | | | | |
-|[H-E-B]()| | | | | |
+|[H-E-B](https://www.heb.com/)| [Yes](https://heb.taleo.net/careersection/extdigitalinterns/jobsearch.ftl?lang=en&radiusType=K&searchExpanded=true&keyword=DIGINT3232&radius=1&portal=100200028688) | [Yes](https://careers.heb.com/university-grads-interns/graduates/) | Supermarket | San Antonio, TX | |
 |[Haven Life](https://havenlife.com/)| No | No | Insurance | NY | |
-|[Honeywell]()| | | | | |
+|[Honeywell](http://www.honeywell.com/)| Yes | Yes | Aerospace, Safety| | US citizen/perm|
 |[Infinera](https://www.infinera.com/careers/)| No | | Telecom | | public |
 |[Insomniac Games](https://insomniac.games/)| Not now | | Gaming | | |
 |[ICE Nyse](http://www.theice.com/homepage.jhtml)| No | | Financial Services| | |
@@ -80,12 +80,12 @@ list of sponsors with links to internships
 |[Micron]()| | | | | |
 |[Mitsubishi Electric]()| | | | | |
 |[Morningstar](https://www.morningstar.com/)| | |Financial Services | Chicago | |
-|[?]()| | | | | |
-|[?]()| | | | | |
-|[Northwestern Mutual]()| | | | | |
+|[National Instruments](https://www.ni.com/en-us.html)| | | Aerospace, Electronics| | |
+|[Neeva](https://neeva.com/)| Yes | Yes |Search Engine | Mountain View, CA / Austin, TX | small startup; [Software Engineer, Intern, Summer 2022](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | [Software Engineer, New Grad 2022](https://jobs.lever.co/neeva/f6e3ba86-f5a1-478d-9666-e8e7310564b8)|
+|[Northwestern Mutual](https://www.northwesternmutual.com/)| | | Financial Services, Insurance | | |
 |[Ocrolus](https://www.ocrolus.com/)| No | No |FinTech, ML | | |
-|[?]()| | | | | |
-|[?]()| | | | | |
+|[Olo](http://www.olo.com/)| No | No |Food Delivery, SaaS | | NY, remote |
+|[onXmaps](https://www.onxmaps.com/)| No | No | mobile apps, GPS | | |
 |[Outschool](https://outschool.com/)| No | No | EdTech | | remote |
 |[Paycom](http://www.paycom.com/)| | | Human Resources | | |
 |[Paylocity](https://www.paylocity.com/)| | [Yes](https://www.paylocity.com/careers/career-opportunities/early-career/)| Human Resources, Enterprise Software| | |
@@ -93,32 +93,32 @@ list of sponsors with links to internships
 |[Prefect](https://www.prefect.io/)| No | | Cloud Data Services| | |
 |[Qualified](https://www.qualified.com/)| | | MarTeh| | |
 |[Quantcast](http://www.quantcast.com/)| | | Advertising | | |
-|[Quora]()| | | | | |
+|[Quora](https://www.quora.com/careers)| [Yes](https://www.quora.com/careers/university) | Yes | Social Media | | remote |
 |[Rally](https://www.rallyhealth.com/)| | | Health Care| | |
-|[?]()| | | | | |
-|[Reddit]()| | | | | |
+|[Recharge](https://rechargepayments.com/)| No | No | Subscription Service | | remote |
+|[Reddit](https://www.redditinc.com/)| No | No | Social Media | | |
 |[Redfin](http://www.redfin.com/)| Yes | [Yes](https://www.redfin.com/careers/departments/emerging-talent)| Real Estate | Seattle, WA | |
 |[Reynolds]()| | | | | |
-|[Ro](https://ro.co/)| | | Health Care| | |
-|[Robinhood]()| | | | | |
+|[Ro](https://ro.co/)| | | Health Care | | |
+|[Robinhood](https://careers.robinhood.com/)| Yes | Yes | FinTech | Menlo Park, CA | |
 |[Rocket Companies](https://www.rocketcompanies.com/)| [Yes](https://www.myrocketcareer.com/teams/internships/)| | Real Estate| | |
-|[Rora]()| | | | | |
+|[Rora](https://www.teamrora.com/)| | | | | |
 |[Rubrik](http://rubrik.com/)| Yes | | Cloud Data Services | | |
-|[SAP]()| | | | | |
+|[SAP](https://www.sap.com/index.html)|  [Yes](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=&utm_source=careersite&utm_campaign=All_Student_jobs) | [Yes](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Graduate&optionsFacetsDD_countr&utm_source=careersite&utm_campaign=Graduate_jobs_all) | BI, Analytics | | |
 |[Schlumberger](https://www.slb.com/)| | | Oil and Gas | | |
 |[Snorkel](https://snorkel.ai/)| Yes | | | | |
 |[Snowflake](https://www.snowflake.com/)| | [Yes](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | Cloud Data Services, Analytics | | |
 |[Sonatype](http://www.sonatype.com/)| No | No |Cybersecurity | | |
-|[Splunk]()| | | | | |
+|[Splunk](https://www.splunk.com/)| [Yes](https://www.splunk.com/en_us/careers/early-talent.html) | | Analytics, Security | | |
 |[Spreetail](http://spreetail.com/)| Yes | |E-Commerce | Lincoln, NE | |
 |[State Street](http://www.statestreet.com/)| | [Yes](https://careers.statestreet.com/global/en/state-street-early-careers)| Financial Services, Banking | Burlington | |
 |[Strava](http://www.strava.com/)| [Yes](https://boards.greenhouse.io/strava)| |Fitness, Social Network | | |
-|[T-Mobile]()| | | | | |
-|[TikTok]()| | | | | |
-|[Toyota Research Institute]()| | | | | |
-|[Twitter]()| | | | | |
+|[T-Mobile](https://www.t-mobile.com/)| Yes | Yes | Telecommunications | | |
+|[TikTok](https://careers.tiktok.com/)| [Yes](https://careers.tiktok.com/position?type=3) | [Yes](https://careers.tiktok.com/position?type=2) | Social Media | | |
+|[Toyota Research Institute](https://www.tri.global/)| | | Automotive | | |
+|[Twitter](https://careers.twitter.com/)| No | | Social Media | | |
 |[TwoSix Technologies]()| | | | | |
-|[UBS]()| [Yes](https://www.ubs.com/global/en/careers/university-students.html) | [Yes](https://www.ubs.com/global/en/careers/recent-graduates.html) | | | |
+|[UBS](https://www.ubs.com/us/en.html)| [Yes](https://www.ubs.com/global/en/careers/university-students.html) | [Yes](https://www.ubs.com/global/en/careers/recent-graduates.html) | | | |
 |[UIPath](https://www.uipath.com/)| Yes | No | Automation | Global | [Software Engineer Intern](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern) in Bellevue, WA|
 |[Valve](https://www.valvesoftware.com/en/)| No | No | Gaming | Belleveu, WA | |
 |[Vidmob](https://www.vidmob.com/)| Yes | No |Digital Video Content| Global | [Engineering Intern](https://www.vidmob.com/careers/?gh_jid=4359868003) in Pittsfield, MA or Remote, [Product Marketing Intern](https://www.vidmob.com/careers/?gh_jid=4585192003) Remote| 
