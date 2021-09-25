@@ -12,16 +12,16 @@ list of sponsors with links to internships
 |[Arcadia](https://www.arcadia.com/)| No | No | CleanTech | Washington, DC/New York | |
 |[Atlassian]()| | | | | |
 |[Balsamiq](https://balsamiq.com/)| No | No | SaaS | Sacramento, CA + global | user interface tool, remote work, no current openings |
-|[?]()| | | | | |
-|[?]()| | | | | |
+|[Benchling](https://www.benchling.com/)| | | BioTech | | |
+|[Boston Dynamics](http://bostondynamics.com/)| | | AI/Robotics | | |
 |[BP]()| | | | | |
 |[Brex]()| [Yes](https://www.brex.com/careers/engineering/5319155002) | [Yes](https://www.brex.com/careers/engineering/5568153002) | Fintech, banking | | Remote positions|
 |[Brown Brothers Harriman]()| [Yes](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/IT-Internship---Java-Developer_41617) | [Yes](https://www.bbh.com/us/en/careers/Students-and-Early-Career.html) | private banking | | six-month, paid co-op (not clear which field); Java Developer internship |
 |[Ubuntu]()| | | | | |
 |[CDW]()| Yes | [Yes](https://www.cdwjobs.com/pages/student?branch=student) | B2B IT products and services | many | Fortune 500 company; no SWE internships|
 |[Cerebrae](https://www.cerebrae.com/)| No | No | FinTech, Healthcare, SaaS | SF/Remote| very small new startup |
-|[?]()| | | | | |
-|[Chan Zuckerberg Initiative]()| | | | | |
+|[Chainalysis](https://www.chainalysis.com/)| No | No | Blockchain | | |
+|[Chan Zuckerberg Initiative](https://chanzuckerberg.com/careers/)| [Yes](https://chanzuckerberg.com/careers/career-opportunities/) | | | EdTech? | |
 |[Cirrus Logic](https://master-nq.webp2.cirrus.com/)| Yes | Yes | Electronics, Energy | Austin, TX + global | no SWE coops/internships? |
 |[Citizen](https://citizen.com/)| No | No | Apps, News, Public Safety | New York | startup, 2015, 100-250 size|
 |[Cloudflare](https://www.cloudflare.com/)| No | No | Enterprise Software, Web Hosting, Security | Global/remote | public, since 2009, 500-1000 size; exited unicorn |
@@ -33,19 +33,19 @@ list of sponsors with links to internships
 |[Consilio](https://www.consilio.com/about-consilio/careers/)| No | No | Enterprise Software, Legal | | private, 2002, 500-1000|
 |[CSL Behring](https://www.cslbehring.com/)| | | Biotech | | |
 |[DataStax](https://www.datastax.com/company/careers#roles)|  No| No | Cloud Data Services, Software Enterprise | Global/Remote | private, 2010, 500-1000 size|
-|[Doordash]()| | | | | |
+|[Doordash](https://www.doordash.com/)| Yes | No | Food Delivery, Logistics| | [Software Engineer, Intern](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) |
 |[D E Shaw Research](https://www.deshawresearch.com/)| | | Biochemistry Research | | |
 |[Dev Technology Group]()| Yes | No | IT Consulting | Reston, VA | [Summer Technical Intern](https://devtechnology.com/careers/careers-apply/?jobid=5538810002) in Reston, VA and Washington, D.C; also DevOps internship|
-|[Digital BCG]()| | [Yes](https://careers.bcg.com/students) | Consulting | | |
+|[Digital BCG](https://www.bcg.com/)| | [Yes](https://careers.bcg.com/students) | Consulting | | |
 |[DivvyDOSE](https://divvydose.com/)| | | Biotech, Health Care |  | |
-|[?]()| | | | | |
-|[DTCC]()| | | | | |
+|[DreamHaven](https://www.dreamhaven.com/)| No | No | | | very small startup|
+|[DTCC](https://www.dtcc.com/)| Yes | | Financial Services| | |
 |[Duck Creek Technologies](http://www.duckcreek.com/)| No | No | FinTech, Insurance| Global | few Associate roles; public; 2000; 5000-10000 size |
 |[Enphase](https://enphase.com/careers)| No | No | Energy | | |
 |[Everest](https://www.everestre.com/Careers)| [Yes](https://www.everestre.com/Careers/Programs-for-Students) | | Insurance | Warren, NJ |[2022 Data Analytics Internship](https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers/job/Warren-NJ/XMLNAME-2022-Business-Analytics-Internship_R1434), [2022 Software Development Internship](https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers/job/Warren-NJ/XMLNAME-2022-Software-Development-Internship_R1431) |
 |[Everlaw](https://www.everlaw.com/)| No | No |Legal Tech, Cloud | Oakland, CA | startup, 2010, 250-500 size |
 |[Evidation](https://evidation.com/)| No | No | Health Care | | |
-|[?]()| | | | | |
+|[Expensify](https://we.are.expensify.com/)| Yes | No | FinTech, Accounting | | |
 |[Fanduel](https://www.fanduel.com/open-positions)| No | No | Gaming | many (e.g. LA, CA) | |
 |[Fast Enterprises](https://www.fastenterprises.com/careers)| Yes | | GovTech | | |
 |[FIS]()| Yes | [Yes](https://careers.fisglobal.com/us/en/c/fis-university-programinterns-jobs)| FinTech, Banking| | |
@@ -56,7 +56,7 @@ list of sponsors with links to internships
 |[Foothold Technology](https://footholdtechnology.com/)| No | No |Consumer Electronics, Healthcare | | |
 |[Freenome]()| | | BioTech | | |
 |[Gap Inc](https://www.gapinc.com/en-us)| Yes | |E-Commerce | | |
-|[Gartner]()| | | | | |
+|[Gartner](https://www.gartner.com/en)| | | | | |
 |[Gemini](https://www.gemini.com/)| No | No | FinTech, Crypto | | |
 |[GoGuardian](https://www.goguardian.com/)| No | No | EdTech | | |
 |[Grubhub]()| | | | | |
@@ -65,9 +65,9 @@ list of sponsors with links to internships
 |[Honeywell]()| | | | | |
 |[Infinera](https://www.infinera.com/careers/)| No | | Telecom | | public |
 |[Insomniac Games](https://insomniac.games/)| Not now | | Gaming | | |
-|[ICE Nyse]()| | | | | |
+|[ICE Nyse](http://www.theice.com/homepage.jhtml)| No | | Financial Services| | |
 |[InterSystems](http://www.intersystems.com/)| | | Health Care | | |
-|[?]()| | | | | |
+|[Iterable](https://iterable.com/careers/)| No | No | MarTech | | |
 |[John Deere]()| | | | | |
 |[?]()| | | | | |
 |[KLA+](http://www.kla-tencor.com/)| | |Semiconductor | | |
