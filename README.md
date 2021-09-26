@@ -36,92 +36,92 @@ Note: list is not complete.
 |[Booz Allen Hamilton](http://www.boozallen.com/)| | | Cyber Security, Consulting | | |
 |[Cisco](http://www.cisco.com/)| | | Enterprise Software, Hardware | | |
 |[Citi](https://jobs.citi.com/)| Yes | | Banking | | internships outside the U.S. |
-|[DeepMind]()| | | | | |
+|[DeepMind](https://deepmind.com/)| | | AI/ML | | |
 |[Discover]()| | | | | |
 |[?]()| | | | | |
-|[Genentech]()| | | | | |
-|[Goldman Sachs]()| | | Banking | | |
-|[Hewlett Packard Enterprise]()| | | | | |
-|[IBM]()| | | | | |
-|[Morgan Stanley]()| | | | | |
-|[Rivian]()| | | | | |
+|[Genentech](http://gene.com/)| | | BioTech | | |
+|[Goldman Sachs](http://www.goldmansachs.com/)| [Yes](https://www.goldmansachs.com/careers/students/programs/index.html) | | Banking | | |
+|[Hewlett Packard Enterprise](https://www.hpe.com/)| | | Enterprise Software, Network Security | | |
+|[IBM](http://www.ibm.com/)| [Yes](https://www.ibm.com/employment/?lnk=ushpv18ct2#jobs?%23jobs=&job-search=Intern&country=United%2520States) | | CRM | | |
+|[Morgan Stanley](http://www.morganstanley.com/)| [Yes](https://www.morganstanley.com/people-opportunities/students-graduates) | | Banking | Alpharetta, GA  | also coop|
+|[Rivian](http://www.rivian.com/)| | | Automotive | | |
 |[Sony Interactive Entertainment]()| | | | | |
-|[Two Sigma]()| | | | | |
-|[USAA]()| | | | | |
-|[Walmart]()| | | | | |
-|[Wayfair]()| | | | | |
-|[Workiva]()| | | | | |
-|[Zoom]()| | | | | |
+|[Two Sigma](https://www.twosigma.com/)| | | FinTech | NY | |
+|[USAA](https://www.usaajobs.com/)| Yes | | Banking, Insurance | San Antonio, TX | |
+|[Walmart](https://careers.walmart.com/)| Yes | | Retail | | |
+|[Wayfair](https://www.wayfair.com/)| | | Retail | | |
+|[Workiva](http://www.workiva.com/)| [Yes](https://workiva.wd1.myworkdayjobs.com/careers?q=Intern)| | Analytics, Enterprise Software| | |
+|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom)| Yes | | Video Conferencing | | |
 
 
 ## Gold Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
 |---|---|---|---|-------------|-------------|
 |[3M]()| | | | | |
-|[ADP]()| | | | | |
-|[AlixPartners]()| | | | | |
-|[Allstate]()| | | | | |
-|[Ally]()| | | | | |
+|[ADP](https://tech.adp.com/careers/)| Yes | | Human Resources | Alpharetta, GA; Norfolk, VA; Roseland, NJ | |
+|[AlixPartners](http://www.alixpartners.com/)| | | Consulting | | No SWE internships |
+|[Allstate](https://www.allstate.com/careers.aspx)| Yes | | | | |
+|[Ally](https://www.ally.com)| [Yes](https://www.ally.com/about/careers/students.html) | Yes | Automotive FinTech | | no West Coast |
 |[American Family Insurance]()| | | | | |
-|[Amgen]()| | | | | |
+|[Amgen](http://www.amgen.com/)| | | BioTech | | |
 |[Audible/Amazon]()| | | | | |
-|[Aurora]()| | | | | |
-|[Avalara]()| | | | | |
+|[Aurora](https://aurora.tech/)| | | Automotive | | |
+|[Avalara](http://www.avalara.com/)| No | | Enterprise Software, Taxes | | |
 |[?]()| | | | | |
-|[BlackRock]()| | | | | |
-|[BNY Mellon]()| | | | | |
-|[Cardinal Health]()| | | | | |
-|[Carta]()| | | | | |
+|[BlackRock](https://careers.blackrock.com/)| | [Yes](https://careers.blackrock.com/early-careers/)| FinTech| | |
+|[BNY Mellon](https://www.bnymellon.com/us/en/careers)| | | Banking | | |
+|[Cardinal Health](https://www.cardinalhealth.com/)| | | Health Care | | |
+|[Carta](http://carta.com/)| No | No | FinTech | | startip in SF |
 |[the human energy company/Chevron]()| | | | | |
-|[CTC/Chicago Trading Company]()| | | | | |
-|[Citrix]()| | | | | |
-|[Coursera]()| | | | | |
+|[CTC/Chicago Trading Company](http://www.chicagotrading.com/)| | | FinTech | | |
+|[Citrix](https://jobs.citrix.com/)| Yes | [Yes](https://jobs.citrix.com/search-results?keywords=universitygraduate) | Enterprise Software | | public, 5000-10000 size, Florida |
+|[Coursera](https://about.coursera.org/careers/)| Yes | Yes | EdTech | | Mountain View, CA |
 |[Deutsche Bank]()| | | | | |
 |[Doordash](https://www.doordash.com/)| Yes | No | Food Delivery, Logistics| | [Software Engineer, Intern](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) |
-|[Dropbox]()| | | | | |
+|[Dropbox](https://www.dropbox.com/jobs)| Yes | Yes | Enterprise Software, File Sharing | | SF, CA |
 |[Ebay]()| | | | | |
-|[Elsevier]()| | | | | |
-|[Epic Games]()| | | Gaming | | |
-|[Evernote]()| | | | | |
-|[Experian]()| | | | | |
+|[Elsevier](http://www.elsevier.com/)| | | Content Discovery | | mostly Europe |
+|[Epic Games](https://www.epicgames.com/site/en-US/careers)| No | | Gaming | | |
+|[Evernote](http://www.evernote.com/)| No | No | Information Services | | |
+|[Experian](http://www.experianplc.com/)| | | Cyber Security, FinTech | | [REMOTE Business Analyst Intern](https://jobs.smartrecruiters.com/Experian/743999775184423-remote-business-analyst-intern) |
 |[EY]()| | | | | |
 |[Ford]()| | | | | |
-|[GoDaddy]()| | | | | |
-|[Hudson River Trading]()| | | | | |
-|[Hu.ma.ne]()| | | | | |
+|[GoDaddy](http://godaddy.com/)| | | Web Hosting, Cyber Security | | |
+|[Hudson River Trading](https://www.hudsonrivertrading.com/)| | | Financial Services | | NY, Austin, Chicago |
+|[Hu.ma.ne](https://hu.ma.ne/jobs)| No | No | Consumer Electronics | | startup in SF |
 |[Idexx]()| | | | | |
-|[IMC]()| | | | | |
+|[IMC](https://careers.imc.com/)| [Yes](https://careers.imc.com/us/en/internships-program) | Yes | Trading, FinTech | Chicago | |
 |[Intel]()| | | | | |
-|[Invitae]()| | | | | |
-|[?]()| | | | | |
-|[Jane Street]()| | | | | |
-|[Juniper Networks]()| | | | | |
+|[Invitae](http://invitae.com/)| | | BioTech | | |
+|[iRobot](https://www.irobot.com/)| | | AI, Consumer Electronics | | |
+|[Jane Street](https://www.janestreet.com/)| Yes | Yes | Venture Capital | NY | |
+|[Juniper Networks](http://www.juniper.net/)| | | Security, Hardware | | |
 |[KMPG]()| | | | | |
-|[L3harris]()| | | | | |
-|[LexisNexis]()| | | | | |
+|[L3harris](https://www.l3harris.com/)| | | National Security | | |
+|[LexisNexis](https://www.lexisnexis.com/en-us/about-us/careers.page)| No | | Legal Tech, Accounting | | |
 |[Liberty Mutual]()| | |Insurance | | |
-|[Lilly]()| | | | | |
+|[Lilly](http://www.lilly.com/)| | | BioTech | | |
 |[LinkedIN]()| | | | | |
-|[Lowe's]()| | | | | |
-|[Mastercard]()| | | | | |
-|[MathWorks]()| | | | | |
+|[Lowe's](https://corporate.lowes.com/careers/)| [Yes](https://corporate.lowes.com/careers/students-grads)| | | Home Renovation, Retail | |
+|[Mastercard](http://www.mastercard.com/)| [Yes](https://mastercard.wd1.myworkdayjobs.com/Campus) | | Financial Services | | |
+|[MathWorks](http://www.mathworks.com/)| | | EdTech | | creator of MATLAB |
 |[McDonalds]()| | | | | |
-|[Medidata]()| | | | | |
-|[Merck]()| | | | | |
-|[?]()| | | | | |
-|[MiTek]()| | | | | |
+|[Medidata](https://www.medidata.com/en/)| | | Life Sciences| | |
+|[Merck](http://www.merck.com/)| | | BioTech | | |
+|[Millenium Management](http://www.mlp.com/)| Yes | | Financial Services | | no application on website |
+|[MiTek](http://www.mitek-us.com/)| | | Construction, Enterprise Software | | |
 |[Moody's]()| | | | | |
-|[Motional]()| | | | | |
+|[Motional](https://motional.com/)| | | Automotive| | small startup (autonomous vehicles) in Boston |
 |[Nasdaq]()| | | | | |
 |[Navy Federal Credit Union]()| | | | | |
-|[New York Life]()| | | | | |
-|[Niantic]()| | | | | |
+|[New York Life](http://www.newyorklife.com/)| | | Insurance | | |
+|[Niantic](http://www.nianticlabs.com/)| | | AR, Gaming | | startup in SF |
 |[Nike]()| | | | | |
-|[Nintendo]()| | | | | |
-|[Nuance]()| | | | | |
-|[Opendoor]()| | | | | |
+|[Nintendo](https://careers.nintendo.com/)| No | | Gaming | | Redmond, WA |
+|[Nuance](https://www.nuance.com/about-us/careers.html)| Yes | | conversational AI, Health Care | | acquired by Microsoft |
+|[Opendoor](https://www.opendoor.com/w/careers)| | | Real Estate | | SF |
 |[Oracle]()| | | | | |
-|[Pega]()| | | | | |
+|[Pega](https://www.pega.com/about/careers)| | | CRM | | |
 |[PNC Fin.Services Group]()| | | Financial Services | | |
 |[RedHat]()| | | | | |
 |[Ripple]()| | | | | |
@@ -217,7 +217,7 @@ Note: list is not complete.
 |[Gemini](https://www.gemini.com/)| No | No | FinTech, Crypto | | |
 |[GoGuardian](https://www.goguardian.com/)| No | No | EdTech | | |
 |[Grubhub](http://www.grubhub.com/)| No | | Food Delivery | | |
-|[H-E-B](https://www.heb.com/)| [Yes](https://heb.taleo.net/careersection/extdigitalinterns/jobsearch.ftl?lang=en&radiusType=K&searchExpanded=true&keyword=DIGINT3232&radius=1&portal=100200028688) | [Yes](https://careers.heb.com/university-grads-interns/graduates/) | Supermarket | San Antonio, TX | |
+|[H-E-B](https://www.heb.com/)| [Yes](https://heb.taleo.net/careersection/extdigitalinterns/jobsearch.ftl?lang=en&radiusType=K&searchExpanded=true&keyword=DIGINT3232&radius=1&portal=100200028688) | [Yes](https://careers.heb.com/university-grads-interns/graduates/) | Retail | San Antonio, TX | |
 |[Haven Life](https://havenlife.com/)| No | No | Insurance | NY | |
 |[Honeywell](http://www.honeywell.com/)| Yes | Yes | Aerospace, Safety| | US citizen/perm|
 |[Infinera](https://www.infinera.com/careers/)| No | | Telecom | | public |
