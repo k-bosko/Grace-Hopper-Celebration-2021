@@ -57,12 +57,12 @@ Note: list is not complete.
 ## Gold Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
 |---|---|---|---|-------------|-------------|
-|[3M]()| | | | | |
+|[3M](https://www.3m.com/)| | | Automotive | | |
 |[ADP](https://tech.adp.com/careers/)| Yes | | Human Resources | Alpharetta, GA; Norfolk, VA; Roseland, NJ | |
 |[AlixPartners](http://www.alixpartners.com/)| | | Consulting | | No SWE internships |
 |[Allstate](https://www.allstate.com/careers.aspx)| Yes | | | | |
 |[Ally](https://www.ally.com)| [Yes](https://www.ally.com/about/careers/students.html) | Yes | Automotive FinTech | | no West Coast |
-|[American Family Insurance]()| | | | | |
+|[American Family Insurance](https://www.amfam.com/about/careers)| [Yes](https://www.amfam.com/about/careers/internships)| Yes | Insurance | | |
 |[Amgen](http://www.amgen.com/)| | | BioTech | | |
 |[Audible/Amazon]()| | | | | |
 |[Aurora](https://aurora.tech/)| | | Automotive | | |
@@ -76,7 +76,7 @@ Note: list is not complete.
 |[CTC/Chicago Trading Company](http://www.chicagotrading.com/)| | | FinTech | | |
 |[Citrix](https://jobs.citrix.com/)| Yes | [Yes](https://jobs.citrix.com/search-results?keywords=universitygraduate) | Enterprise Software | | public, 5000-10000 size, Florida |
 |[Coursera](https://about.coursera.org/careers/)| Yes | Yes | EdTech | | Mountain View, CA |
-|[Deutsche Bank]()| | | | | |
+|[Deutsche Bank](http://www.db.com/)| Yes | | Banking | | |
 |[Doordash](https://www.doordash.com/)| Yes | No | Food Delivery, Logistics| | [Software Engineer, Intern](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) |
 |[Dropbox](https://www.dropbox.com/jobs)| Yes | Yes | Enterprise Software, File Sharing | | SF, CA |
 |[Ebay]()| | | | | |
@@ -105,18 +105,18 @@ Note: list is not complete.
 |[Lowe's](https://corporate.lowes.com/careers/)| [Yes](https://corporate.lowes.com/careers/students-grads)| | | Home Renovation, Retail | |
 |[Mastercard](http://www.mastercard.com/)| [Yes](https://mastercard.wd1.myworkdayjobs.com/Campus) | | Financial Services | | |
 |[MathWorks](http://www.mathworks.com/)| | | EdTech | | creator of MATLAB |
-|[McDonalds]()| | | | | |
+|[McDonalds](http://www.mcdonalds.com/)| [Yes](https://careers.mcdonalds.com/global-corporate/jobs?keywords=intern&sortBy=relevance&page=1) | | | | |
 |[Medidata](https://www.medidata.com/en/)| | | Life Sciences| | |
 |[Merck](http://www.merck.com/)| | | BioTech | | |
 |[Millenium Management](http://www.mlp.com/)| Yes | | Financial Services | | no application on website |
 |[MiTek](http://www.mitek-us.com/)| | | Construction, Enterprise Software | | |
-|[Moody's]()| | | | | |
+|[Moody's](https://careers.moodys.com/)| [Yes](https://careers.moodys.com/students-and-graduates/#americas) | | Financial Services | | |
 |[Motional](https://motional.com/)| | | Automotive| | small startup (autonomous vehicles) in Boston |
-|[Nasdaq]()| | | | | |
+|[Nasdaq](https://www.nasdaq.com/about/careers)| [Yes](https://www.wayup.com/s/internships) | [Yes](https://www.wayup.com/s/entry-level-jobs) | | | |
 |[Navy Federal Credit Union]()| | | | | |
-|[New York Life](http://www.newyorklife.com/)| | | Insurance | | |
+|[New York Life](https://www.newyorklife.com/careers)| | | Insurance | | |
 |[Niantic](http://www.nianticlabs.com/)| | | AR, Gaming | | startup in SF |
-|[Nike]()| | | | | |
+|[Nike](https://jobs.nike.com/)| [Yes](https://jobs.nike.com/internships?jobSearch=true&jsBrand%5B0%5D=Nike&jsKeywords%5B0%5D=internship&jsLocation%5B0%5D=6252001&jsOffset=0&jsSort=posting_start_date&jsLanguage=en)| | Retail | Oregon | |
 |[Nintendo](https://careers.nintendo.com/)| No | | Gaming | | Redmond, WA |
 |[Nuance](https://www.nuance.com/about-us/careers.html)| Yes | | conversational AI, Health Care | | acquired by Microsoft |
 |[Opendoor](https://www.opendoor.com/w/careers)| | | Real Estate | | SF |
@@ -124,40 +124,40 @@ Note: list is not complete.
 |[Pega](https://www.pega.com/about/careers)| | | CRM | | |
 |[PNC Fin.Services Group]()| | | Financial Services | | |
 |[RedHat]()| | | | | |
-|[Ripple]()| | | | | |
-|[Roblox]()| | | | | |
-|[Rockwell Automation]()| | | | | |
-|[Schrodinger]()| | | | | |
-|[ServiceNow]()| | | | | |
-|[Shopify]()| | | | | |
-|[Siemens]()| | | | | |
-|[Slalom]()| | | | | |
-|[Spacex]()| | | | | |
-|[StateFarm]()| | | | | |
-|[Stripe]()| | | | | |
-|[Target Tech]()| | | | | |
-|[Tesla]()| | | | | |
-|[DE Shaw & Co]()| | | | | |
-|[Home Depot]()| | | | | |
-|[Pokemon Company Int.]()| | | | | |
-|[Q/HSN]()| | | | | |
-|[theTradeDesk]()| | | | | |
-|[?]()| | | | | |
-|[Thomson Reuters]()| | | | | |
-|[Thoughtworks]()| | | | | |
-|[TIBCO]()| | | | | |
-|[Travelers]()| | | | | |
-|[T.RowePrice]()| | | | | |
+|[Ripple](https://ripple.com/company/careers/)| | Yes | Cryptocurrency, FinTech | | SF |
+|[Roblox](https://corp.roblox.com/careers/)| No | | Gaming | | |
+|[Rockwell Automation](http://www.rockwellautomation.com/)| | | Hardware, Industrial Automation | | |
+|[Schrodinger](http://www.schrodinger.com/)| | | BioTech | | |
+|[ServiceNow](https://www.servicenow.com/careers.html)| [Yes](https://careers.smartrecruiters.com/ServiceNow?search=intern) | | SaaS | | |
+|[Shopify](https://www.shopify.com/careers)| [Yes](https://www.shopify.com/careers/interns) | | E-Commerce, SaaS | | |
+|[Siemens](https://new.siemens.com/global/en/company/jobs.html)| [Yes](https://jobs.siemens.com/jobs?page=1&keywords=intern&sortBy=relevance&experienceLevels=Student%20(Not%20Yet%20Graduated)&limit=100) | Yes | Consumer Electronics | | |
+|[Slalom](http://www.slalom.com/)| Yes | | Consulting | | |
+|[Spacex](https://www.spacex.com/)| | | Aerospace | | |
+|[StateFarm](http://www.statefarm.com/)| [Yes](https://jobs.statefarm.com/main/jobs?page=1&categories=Technology%20and%20UX&limit=100&tags1=Internship) | | Insurance | | |
+|[Stripe](https://stripe.com/jobs)| Yes | Yes | FinTech | | |
+|[Target Tech](https://corporate.target.com/careers/)| [Yes](https://target.wd5.myworkdayjobs.com/targetcareers/) | | | | |
+|[Tesla](https://www.tesla.com/)| | | Automotive | | |
+|[DE Shaw & Co](https://www.deshaw.com/careers/)| [Yes](https://www.deshaw.com/careers/internships) | | Financial Services | | several [fellowships](https://fellowships.deshaw.com/) for sophomore/junior students |
+|[Home Depot](https://careers.homedepot.com/)| [Yes](https://careers.homedepot.com/job-search-results/?keyword=intern%20-internal&pg=2) | | Retail | | Cybersecurity internships |
+|[Pokemon Company Int.](https://boards.greenhouse.io/pokemoncareers)| No | | | | |
+|[Quarte Retail Group](https://careers.qurateretailgroup.com/)| [Yes](https://careers.qurateretailgroup.com/job-search-results/?keyword=Intern&pg=1) | | West Chester, PA; Saint Petersburg, FL | | |
+|[theTradeDesk](https://careers.thetradedesk.com/us/en)| No | No | Advertising | | |
+|[Vanguard](https://www.vanguardjobs.com/)| Yes | Yes | Financial Services | | |
+|[Thomson Reuters](https://www.thomsonreuters.com/en/careers/campus-careers.html#technology)| [Yes](https://jobs.thomsonreuters.com/?category[]=Graduates%2FInterns) | | Analytics | | |
+|[Thoughtworks](http://www.thoughtworks.com/)| | | Consulting | | |
+|[TIBCO](http://www.tibco.com/)| [Yes](https://www.tibco.com/careers/university-program)| | BI, Analytics, Enterprise Software | | |
+|[Travelers]()| | | Insurance | | |
+|[T.RowePrice](https://www.troweprice.com/corporate/us/en/careers.html)| Yes | Yes | Financial Services | | Baltimore, MD |
 |[Unity]()| | | | | |
 |[Verizon]()| | | | | |
 |[Viasat]()| | | | | |
-|[WMWare]()| | | | | |
-|[Xperi]()| | | | | |
+|[VMWare](https://www.vmware.com/)| [Yes](https://careers.vmware.com/internships)| | | Cloud | |
+|[Xperi](http://xperi.com/)| No | | Semiconductor | | |
 |[Yahoo!]()| | | | | |
-|[Yext]()| | | | | |
-|[Zendesk]()| | | | | |
-|[Zillow]()| | | | | |
-|[Zulily]()| | | | | |
+|[Yext](https://www.yext.com/careers/)| Yes | Yes | SaaS, Knowledge Management | NY | |
+|[Zendesk](https://jobs.zendesk.com/us/en)| No | | Enterprise Software | | SF |
+|[Zillow](http://www.zillow.com/)| No | No | Real Estate | | |
+|[Zulily](https://careers.qurateretailgroup.com/zulily/?multi_select1=Zulily)| | | Retail | | |
 
 ## Bronze Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
