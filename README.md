@@ -7,7 +7,7 @@ Note: list is not complete.
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
 |---|---|---|---|-------------|-------------|
 |[Bank of America](http://www.bankofamerica.com/)| | | Banking | couldn't find direct links to internships; support diversity|
-|[Disney]()| | | | | |
+|[Disney](https://jobs.disneycareers.com/)| | | Entertainment | | no SWE internships |
 |[Google]()| | | | | |
 |[Northrop Grumman](http://www.northropgrumman.com/)| | | Security | | |
 |[Wells Fargo](https://www.wellsfargo.com/)| No? | | Banking | | positions targeted specifically at GHC attendees |
@@ -17,15 +17,15 @@ Note: list is not complete.
 |---|---|---|---|-------------|-------------|
 |[American Express](http://www.americanexpress.com/)| [Yes](https://www.americanexpress.com/en-us/careers/student-programs/us/)| Yes | Banking | | [Operations Engineering Intern](https://aexp.eightfold.ai/careers/job?pid=9290649) in Phoenix, AZ|
 |[Apple]()| | | | | |
-|[Capital One](https://www.capitalonecareers.com/)| Yes | | Banking| | [Technology Development Program Associate - 2022](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594)|
-|[Electronic Arts](http://www.ea.com/)| | | Gaming | | |
-|[Intuit](http://www.intuit.com/)| | | FinTech, Accounting | | |
+|[Capital One](https://www.capitalonecareers.com/)| [Yes](https://www.capitalonecareers.com/search-jobs/intern/1732-31238/1) | Yes | Banking| | [Technology Development Program Associate - 2022](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594)|
+|[Electronic Arts](http://www.ea.com/)| [Yes](https://www.ea.com/careers/students) | | Gaming | | coops in Canada |
+|[Intuit](https://jobs.intuit.com/search-jobs/)| | | FinTech, Accounting | | |
 |[Microsoft](http://www.microsoft.com/)| | | | | |
 |[NetApp](http://netapp.com/)| [Yes](https://netapp.eightfold.ai/careers?pid=8617935&query=Intern&domain=netapp.com) | [Yes](https://www.netapp.com/company/careers/early-in-career-program/)| Cloud Computing | | |
 |[Nordstrom](http://www.nordstrom.com/)| No | | Retail | | |
 |[PayPal](https://www.paypal.com/home)| [Yes](https://jobsearch.paypal-corp.com/en-US/search?keywords=&facetcountry=us&location=&facetcategory=Internship) | | FinTech, Mobile Payments| | |
 |[Qualcomm](http://www.qualcomm.com/)| | | Telecommunications | | |
-|[Salesforce](https://www.salesforce.com/)| Yes | | SaaS, Analytics| many, also SF, CA | |
+|[Salesforce](https://www.salesforce.com/)| [Yes](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/2/refreshFacet/318c8bb6f553100021d223d9780d30be) | | SaaS, Analytics| many, also SF, CA | |
 
 ## Platinum Sponsors
 | Company  |  Internships? | New Grad Program? | Industry | Location | Notes |
@@ -37,19 +37,19 @@ Note: list is not complete.
 |[Cisco](http://www.cisco.com/)| | | Enterprise Software, Hardware | | |
 |[Citi](https://jobs.citi.com/)| Yes | | Banking | | internships outside the U.S. |
 |[DeepMind](https://deepmind.com/)| | | AI/ML | | |
-|[Discover]()| | | | | |
-|[?]()| | | | | |
+|[Discover](https://jobs.discover.com/)| [Yes](https://jobs.discover.com/job-search/?category[]=Internship%2FLeadership%20Programs)|  | Banking | | |
+|[Discovery](https://jobs.discovery.com/)| [Yes](https://jobs.discovery.com/careers-home/jobs?keywords=intern&limit=100&page=1) | Yes | Entertainment | | |
 |[Genentech](http://gene.com/)| | | BioTech | | |
 |[Goldman Sachs](http://www.goldmansachs.com/)| [Yes](https://www.goldmansachs.com/careers/students/programs/index.html) | | Banking | | |
 |[Hewlett Packard Enterprise](https://www.hpe.com/)| | | Enterprise Software, Network Security | | |
 |[IBM](http://www.ibm.com/)| [Yes](https://www.ibm.com/employment/?lnk=ushpv18ct2#jobs?%23jobs=&job-search=Intern&country=United%2520States) | | CRM | | |
 |[Morgan Stanley](http://www.morganstanley.com/)| [Yes](https://www.morganstanley.com/people-opportunities/students-graduates) | | Banking | Alpharetta, GA  | also coop|
 |[Rivian](http://www.rivian.com/)| | | Automotive | | |
-|[Sony Interactive Entertainment]()| | | | | |
-|[Two Sigma](https://www.twosigma.com/)| | | FinTech | NY | |
+|[Sony Interactive Entertainment](https://www.sie.com/en/saiyo.html)| [Yes](https://www.playstation.com/en-us/corporate/playstation-careers/) | | Gaming, Consumer Electronics | | |
+|[Two Sigma](https://www.twosigma.com/)| Yes | | FinTech | NY | |
 |[USAA](https://www.usaajobs.com/)| Yes | | Banking, Insurance | San Antonio, TX | |
-|[Walmart](https://careers.walmart.com/)| Yes | | Retail | | |
-|[Wayfair](https://www.wayfair.com/)| | | Retail | | |
+|[Walmart](https://careers.walmart.com/)| [Yes](https://careers.walmart.com/results?q=2022&page=1&sort=rank&expand=department,0000015e-b97d-d143-af5e-bd7da8ca0000,brand,type,rate&jobCareerArea=all) | | Retail | | |
+|[Wayfair](https://www.aboutwayfair.com/careers/us-students)| [Yes](https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8%2C5&gh_src=) | Yes | Retail | Boston | |
 |[Workiva](http://www.workiva.com/)| [Yes](https://workiva.wd1.myworkdayjobs.com/careers?q=Intern)| | Analytics, Enterprise Software| | |
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom)| Yes | | Video Conferencing | | |
 
@@ -71,7 +71,7 @@ Note: list is not complete.
 |[BlackRock](https://careers.blackrock.com/)| | [Yes](https://careers.blackrock.com/early-careers/)| FinTech| | |
 |[BNY Mellon](https://www.bnymellon.com/us/en/careers)| | | Banking | | |
 |[Cardinal Health](https://www.cardinalhealth.com/)| | | Health Care | | |
-|[Carta](http://carta.com/)| No | No | FinTech | | startip in SF |
+|[Carta](http://carta.com/)| No | No | FinTech | | startup in SF |
 |[the human energy company/Chevron]()| | | | | |
 |[CTC/Chicago Trading Company](http://www.chicagotrading.com/)| | | FinTech | | |
 |[Citrix](https://jobs.citrix.com/)| Yes | [Yes](https://jobs.citrix.com/search-results?keywords=universitygraduate) | Enterprise Software | | public, 5000-10000 size, Florida |
@@ -79,21 +79,21 @@ Note: list is not complete.
 |[Deutsche Bank](http://www.db.com/)| Yes | | Banking | | |
 |[Doordash](https://www.doordash.com/)| Yes | No | Food Delivery, Logistics| | [Software Engineer, Intern](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) |
 |[Dropbox](https://www.dropbox.com/jobs)| Yes | Yes | Enterprise Software, File Sharing | | SF, CA |
-|[Ebay]()| | | | | |
+|[Ebay](https://careers.ebayinc.com/)| Yes | Yes | Retail, E-Commerce | | internships outside the U.S.|
 |[Elsevier](http://www.elsevier.com/)| | | Content Discovery | | mostly Europe |
 |[Epic Games](https://www.epicgames.com/site/en-US/careers)| No | | Gaming | | |
 |[Evernote](http://www.evernote.com/)| No | No | Information Services | | |
 |[Experian](http://www.experianplc.com/)| | | Cyber Security, FinTech | | [REMOTE Business Analyst Intern](https://jobs.smartrecruiters.com/Experian/743999775184423-remote-business-analyst-intern) |
-|[EY]()| | | | | |
-|[Ford]()| | | | | |
+|[EY](https://www.ey.com/)| | | | | no SWE internships? |
+|[Ford](https://corporate.ford.com/careers/programs/students-and-recent-graduates.html)| Yes | Yes | Automotive | Michigan | |
 |[GoDaddy](http://godaddy.com/)| | | Web Hosting, Cyber Security | | |
 |[Hudson River Trading](https://www.hudsonrivertrading.com/)| | | Financial Services | | NY, Austin, Chicago |
 |[Hu.ma.ne](https://hu.ma.ne/jobs)| No | No | Consumer Electronics | | startup in SF |
 |[Idexx]()| | | | | |
 |[IMC](https://careers.imc.com/)| [Yes](https://careers.imc.com/us/en/internships-program) | Yes | Trading, FinTech | Chicago | |
-|[Intel]()| | | | | |
+|[Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)| | | AI, IT | | |
 |[Invitae](http://invitae.com/)| | | BioTech | | |
-|[iRobot](https://www.irobot.com/)| | | AI, Consumer Electronics | | |
+|[iRobot](https://www.irobot.com/)| | | Semiconductor | | |
 |[Jane Street](https://www.janestreet.com/)| Yes | Yes | Venture Capital | NY | |
 |[Juniper Networks](http://www.juniper.net/)| | | Security, Hardware | | |
 |[KMPG]()| | | | | |
@@ -102,7 +102,7 @@ Note: list is not complete.
 |[Liberty Mutual]()| | |Insurance | | |
 |[Lilly](http://www.lilly.com/)| | | BioTech | | |
 |[LinkedIN]()| | | | | |
-|[Lowe's](https://corporate.lowes.com/careers/)| [Yes](https://corporate.lowes.com/careers/students-grads)| | | Home Renovation, Retail | |
+|[Lowe's](https://corporate.lowes.com/careers/)| [Yes](https://corporate.lowes.com/careers/students-grads)| Home Renovation, Retail | |  | |
 |[Mastercard](http://www.mastercard.com/)| [Yes](https://mastercard.wd1.myworkdayjobs.com/Campus) | | Financial Services | | |
 |[MathWorks](http://www.mathworks.com/)| | | EdTech | | creator of MATLAB |
 |[McDonalds](http://www.mcdonalds.com/)| [Yes](https://careers.mcdonalds.com/global-corporate/jobs?keywords=intern&sortBy=relevance&page=1) | | | | |
@@ -172,7 +172,7 @@ Note: list is not complete.
 |[Benchling](https://www.benchling.com/)| | | BioTech | | |
 |[Boston Dynamics](http://bostondynamics.com/)| | | AI/Robotics | | |
 |[BP]()| | | | | |
-|[Brex]()| [Yes](https://www.brex.com/careers/engineering/5319155002) | [Yes](https://www.brex.com/careers/engineering/5568153002) | Fintech, banking | | Remote positions|
+|[Brex]()| [Yes](https://www.brex.com/careers/engineering/5319155002) | [Yes](https://www.brex.com/careers/engineering/5568153002) | Fintech, banking | | Remote |
 |[Brown Brothers Harriman]()| [Yes](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/IT-Internship---Java-Developer_41617) | [Yes](https://www.bbh.com/us/en/careers/Students-and-Early-Career.html) | private banking | | six-month, paid co-op (not clear which field); Java Developer internship |
 |[Ubuntu]()| | | | | |
 |[CDW]()| Yes | [Yes](https://www.cdwjobs.com/pages/student?branch=student) | B2B IT products and services | many | Fortune 500 company; no SWE internships|
@@ -231,7 +231,7 @@ Note: list is not complete.
 |[Lam Research](http://www.lamresearch.com/)| | | Semiconductor | | |
 |[M&T Tech](https://www3.mtb.com/careers/technology-careers)| [Yes](https://www3.mtb.com/homepage/careers/campus-development-programs/technology-internship-program) | |Banking | | |
 |[Magic Leap](http://magicleap.com/)| | | Augmented Reality, MedTech | | |
-|[MassMutual](https://www.massmutual.com)| | [Yes](https://www.massmutual.com/about-us/careers/early-careers) | FinTech, Insurance | | |
+|[MassMutual](https://www.massmutual.com/about-us/careers)| | [Yes](https://www.massmutual.com/about-us/careers/early-careers) | FinTech, Insurance | Boston, NY | |
 |[McKinsey & Company](http://www.mckinsey.com/)| Yes | Yes | Consulting | | mostly outside U.S. |
 |[Medtronic](http://www.medtronic.com/)| | | BioTech | | |
 |[Micron]()| | | | | |
@@ -239,7 +239,7 @@ Note: list is not complete.
 |[Morningstar](https://www.morningstar.com/)| | |Financial Services | Chicago | |
 |[National Instruments](https://www.ni.com/en-us.html)| | | Aerospace, Electronics| | |
 |[Neeva](https://neeva.com/)| Yes | Yes |Search Engine | Mountain View, CA / Austin, TX | small startup; [Software Engineer, Intern, Summer 2022](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | [Software Engineer, New Grad 2022](https://jobs.lever.co/neeva/f6e3ba86-f5a1-478d-9666-e8e7310564b8)|
-|[Northwestern Mutual](https://www.northwesternmutual.com/)| | | Financial Services, Insurance | | |
+|[Northwestern Mutual](https://www.northwesternmutual.com/careers/)| | | Financial Services, Insurance | Wisconsin, NY | |
 |[Ocrolus](https://www.ocrolus.com/)| No | No |FinTech, ML | | |
 |[Olo](http://www.olo.com/)| No | No |Food Delivery, SaaS | | NY, remote |
 |[onXmaps](https://www.onxmaps.com/)| No | No | mobile apps, GPS | | |
