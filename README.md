@@ -64,7 +64,7 @@ Note: list is not complete.
 |[Ally](https://www.ally.com)| [Yes](https://www.ally.com/about/careers/students.html) | Yes | Automotive FinTech | | no West Coast |
 |[American Family Insurance](https://www.amfam.com/about/careers)| [Yes](https://www.amfam.com/about/careers/internships)| Yes | Insurance | | |
 |[Amgen](http://www.amgen.com/)| | | BioTech | | |
-|[Audible/Amazon]()| | | | | |
+|[Audible/Amazon](https://www.audiblecareers.com/)| | | Entertainment | NJ | |
 |[Aurora](https://aurora.tech/)| | | Automotive | | |
 |[Avalara](http://www.avalara.com/)| No | | Enterprise Software, Taxes | | |
 |[?]()| | | | | |
@@ -96,41 +96,41 @@ Note: list is not complete.
 |[iRobot](https://www.irobot.com/)| | | Semiconductor | | |
 |[Jane Street](https://www.janestreet.com/)| Yes | Yes | Venture Capital | NY | |
 |[Juniper Networks](http://www.juniper.net/)| | | Security, Hardware | | |
-|[KMPG]()| | | | | |
+|[KMPG](https://www.kpmgcampus.com/)| [Yes](https://www.kpmgcampus.com/campus/ourOpportunities#internships)| | Consulting | | no SWE? |
 |[L3harris](https://www.l3harris.com/)| | | National Security | | |
 |[LexisNexis](https://www.lexisnexis.com/en-us/about-us/careers.page)| No | | Legal Tech, Accounting | | |
 |[Liberty Mutual]()| | |Insurance | | |
 |[Lilly](http://www.lilly.com/)| | | BioTech | | |
-|[LinkedIN]()| | | | | |
-|[Lowe's](https://corporate.lowes.com/careers/)| [Yes](https://corporate.lowes.com/careers/students-grads)| Home Renovation, Retail | |  | |
+|[LinkedIN](https://careers.linkedin.com/students)| [Yes](https://careers.linkedin.com/students/Internships/Technical)|  | Social Media | | |
+|[Lowe's](https://corporate.lowes.com/careers/)| [Yes](https://corporate.lowes.com/careers/students-grads)| | Home Renovation, Retail |  | |
 |[Mastercard](http://www.mastercard.com/)| [Yes](https://mastercard.wd1.myworkdayjobs.com/Campus) | | Financial Services | | |
 |[MathWorks](http://www.mathworks.com/)| | | EdTech | | creator of MATLAB |
 |[McDonalds](http://www.mcdonalds.com/)| [Yes](https://careers.mcdonalds.com/global-corporate/jobs?keywords=intern&sortBy=relevance&page=1) | | | | |
-|[Medidata](https://www.medidata.com/en/)| | | Life Sciences| | |
+|[Medidata](https://www.medidata.com/en/)| | | Life Sciences | | |
 |[Merck](http://www.merck.com/)| | | BioTech | | |
 |[Millenium Management](http://www.mlp.com/)| Yes | | Financial Services | | no application on website |
 |[MiTek](http://www.mitek-us.com/)| | | Construction, Enterprise Software | | |
 |[Moody's](https://careers.moodys.com/)| [Yes](https://careers.moodys.com/students-and-graduates/#americas) | | Financial Services | | |
 |[Motional](https://motional.com/)| | | Automotive| | small startup (autonomous vehicles) in Boston |
 |[Nasdaq](https://www.nasdaq.com/about/careers)| [Yes](https://www.wayup.com/s/internships) | [Yes](https://www.wayup.com/s/entry-level-jobs) | | | |
-|[Navy Federal Credit Union]()| | | | | |
+|[Navy Federal Credit Union](http://www.navyfederal.org/)| | | Financial Services | Virginia | |
 |[New York Life](https://www.newyorklife.com/careers)| | | Insurance | | |
 |[Niantic](http://www.nianticlabs.com/)| | | AR, Gaming | | startup in SF |
 |[Nike](https://jobs.nike.com/)| [Yes](https://jobs.nike.com/internships?jobSearch=true&jsBrand%5B0%5D=Nike&jsKeywords%5B0%5D=internship&jsLocation%5B0%5D=6252001&jsOffset=0&jsSort=posting_start_date&jsLanguage=en)| | Retail | Oregon | |
 |[Nintendo](https://careers.nintendo.com/)| No | | Gaming | | Redmond, WA |
 |[Nuance](https://www.nuance.com/about-us/careers.html)| Yes | | conversational AI, Health Care | | acquired by Microsoft |
 |[Opendoor](https://www.opendoor.com/w/careers)| | | Real Estate | | SF |
-|[Oracle]()| | | | | |
-|[Pega](https://www.pega.com/about/careers)| | | CRM | | |
+|[Oracle](https://www.oracle.com/corporate/careers/)| Yes | | Enterprise Software  | | |
+|[Pega](https://www.pega.com/about/careers)| | | CRM | Georgia | |
 |[PNC Fin.Services Group]()| | | Financial Services | | |
-|[RedHat]()| | | | | |
+|[RedHat](https://www.redhat.com/en)| [Yes](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=intern)| | Open Source, Linux | | |
 |[Ripple](https://ripple.com/company/careers/)| | Yes | Cryptocurrency, FinTech | | SF |
 |[Roblox](https://corp.roblox.com/careers/)| No | | Gaming | | |
 |[Rockwell Automation](http://www.rockwellautomation.com/)| | | Hardware, Industrial Automation | | |
 |[Schrodinger](http://www.schrodinger.com/)| | | BioTech | | |
 |[ServiceNow](https://www.servicenow.com/careers.html)| [Yes](https://careers.smartrecruiters.com/ServiceNow?search=intern) | | SaaS | | |
 |[Shopify](https://www.shopify.com/careers)| [Yes](https://www.shopify.com/careers/interns) | | E-Commerce, SaaS | | |
-|[Siemens](https://new.siemens.com/global/en/company/jobs.html)| [Yes](https://jobs.siemens.com/jobs?page=1&keywords=intern&sortBy=relevance&experienceLevels=Student%20(Not%20Yet%20Graduated)&limit=100) | Yes | Consumer Electronics | | |
+|[Siemens](https://new.siemens.com/global/en/company/jobs.html)| [Yes](https://jobs.siemens.com/jobs?page=1&keywords=intern | Yes | Consumer Electronics | | |
 |[Slalom](http://www.slalom.com/)| Yes | | Consulting | | |
 |[Spacex](https://www.spacex.com/)| | | Aerospace | | |
 |[StateFarm](http://www.statefarm.com/)| [Yes](https://jobs.statefarm.com/main/jobs?page=1&categories=Technology%20and%20UX&limit=100&tags1=Internship) | | Insurance | | |
@@ -146,14 +146,14 @@ Note: list is not complete.
 |[Thomson Reuters](https://www.thomsonreuters.com/en/careers/campus-careers.html#technology)| [Yes](https://jobs.thomsonreuters.com/?category[]=Graduates%2FInterns) | | Analytics | | |
 |[Thoughtworks](http://www.thoughtworks.com/)| | | Consulting | | |
 |[TIBCO](http://www.tibco.com/)| [Yes](https://www.tibco.com/careers/university-program)| | BI, Analytics, Enterprise Software | | |
-|[Travelers]()| | | Insurance | | |
+|[Travelers](https://www.travelers.com/)| | | Insurance | | |
 |[T.RowePrice](https://www.troweprice.com/corporate/us/en/careers.html)| Yes | Yes | Financial Services | | Baltimore, MD |
-|[Unity]()| | | | | |
-|[Verizon]()| | | | | |
-|[Viasat]()| | | | | |
+|[Unity](https://careers.unity.com/university)| | | AR/VR | | internships outside the U.S.|
+|[Verizon](https://www.verizon.com/about/careers)| [Yes](https://www.verizon.com/about/work/search/jobs?q=intern&per_page=100)| | Telecommunications | | |
+|[Viasat](https://careers.viasat.com/)| [Yes](https://careers.viasat.com/careers/Interns) | Yes | Telecommunications | | |
 |[VMWare](https://www.vmware.com/)| [Yes](https://careers.vmware.com/internships)| | | Cloud | |
 |[Xperi](http://xperi.com/)| No | | Semiconductor | | |
-|[Yahoo!]()| | | | | |
+|[Yahoo!](https://www.yahooinc.com/careers/)| No? | | Social Media, Search Engine | | |
 |[Yext](https://www.yext.com/careers/)| Yes | Yes | SaaS, Knowledge Management | NY | |
 |[Zendesk](https://jobs.zendesk.com/us/en)| No | | Enterprise Software | | SF |
 |[Zillow](http://www.zillow.com/)| No | No | Real Estate | | |
@@ -167,7 +167,7 @@ Note: list is not complete.
 |[Alto](https://alto.com/)| No | No | Pharmacy | Software in San Francisco, CA and Denver, CO | |
 |[Aptiv](https://www.aptiv.com/)| [Yes](https://jobs.aptiv.com/students) | Yes | Automotive | Global | Big company, most software positions in Michigan |
 |[Arcadia](https://www.arcadia.com/)| No | No | CleanTech | Washington, DC/New York | |
-|[Atlassian]()| | | | | |
+|[Atlassian](https://www.atlassian.com/company/careers)| [Yes](https://www.atlassian.com/company/careers/all-jobs?team=&location=&search=intern) | | Enterprise Software | | |
 |[Balsamiq](https://balsamiq.com/)| No | No | SaaS | Sacramento, CA + global | user interface tool, remote work, no current openings |
 |[Benchling](https://www.benchling.com/)| | | BioTech | | |
 |[Boston Dynamics](http://bostondynamics.com/)| | | AI/Robotics | | |
